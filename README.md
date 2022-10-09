@@ -1,4 +1,4 @@
-# Estutando Python e a biblioteca Pandas :panda_face:
+# Estudando Python e a biblioteca Pandas :panda_face:
 ### Pandas :panda_face:
 ### Pandas_02 :panda_face:
 ### Visualizacao de dados :chart_with_upwards_trend:
